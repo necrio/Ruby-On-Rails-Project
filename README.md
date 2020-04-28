@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created an instragram clone.
 
-Things you may want to cover:
+Features:
 
-* Ruby version
+Uses Devise for login security.
 
-* System dependencies
+Uploads data to AWS S3 storage. 
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
+Simple layout. 
 * ...
