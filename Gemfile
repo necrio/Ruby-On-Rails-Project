@@ -14,7 +14,7 @@ gem 'pg', '~> 1.2', '>= 1.2.3'
 gem 'devise'
 
 #file upload for pics
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
 gem 'carrierwave-aws'
 gem 'aws-sdk-rails'
 
